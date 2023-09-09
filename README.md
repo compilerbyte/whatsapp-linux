@@ -15,3 +15,6 @@ Note: run this script with root
 2. Install only app you need (install.sh -p <app>)
 
 ...
+
+TODO: 
+- Generate from install.sh the apps with web-browser --app=https//web
