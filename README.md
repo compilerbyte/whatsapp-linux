@@ -1,14 +1,13 @@
 # whatsapp-linux
-An Applications with your Web Browser
+This script is for using your whatsapp like an app in your system without using tools like whatsapp for linux and like that.
 
 # How to install
-## Note: run this script with root
+Note: run this script with root
 1. chmod +x install.sh 
+2. ./install.sh 
 
 ## Features:
-2. Select your web browser or detect
+1. Select your web browser or detect
 2. Install only app you need (install.sh -p <app>)
 
 ...
-
-This script is for using your whatsapp like an app in your system without using tools like whatsapp for linux and like that.
